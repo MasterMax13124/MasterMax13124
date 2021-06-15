@@ -16,4 +16,4 @@ I am a Business Informatics student and Linux/Unix fan from Germany. On my profi
 If you happen to have an issue with code I wrote, or want to help out, feel free to open a PR or an issue. Apart from that you can also reach me on:
 - [Twitter](https://twitter.com/gaybrickwall)
 - Discord: cleftist#5054
-- [E-Mail](cleftist@gmail.com), if you're really old school
+- [E-Mail](mailto:cleftist@gmail.com), if you're really old school
